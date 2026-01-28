@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-using-Logistic-Regression-and-XGboost
+This project detects fraudulent credit card transactions using supervised machine learning on a highly imbalanced dataset. Exploratory analysis examined transaction behavior and class imbalance. Class-weighted Logistic Regression and imbalance-aware XGBoost were applied, with performance evaluated using ROC–AUC and recall instead of accuracy.
