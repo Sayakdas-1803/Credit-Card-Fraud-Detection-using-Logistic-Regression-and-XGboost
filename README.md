@@ -48,12 +48,10 @@ Accuracy is not emphasized due to imbalance; ROC–AUC and recall are prioritize
 - Combined ROC curves clearly show performance differences
 
 🛠 Libraries Used
-- `dplyr`
 - `ggplot2`
 - `caret`
 - `pROC`
 - `xgboost`
-- `rpart`, `rpart.plot`
 
 🧾 Conclusion
 Cost-sensitive learning significantly improves fraud detection in imbalanced datasets. While Logistic Regression offers interpretability, XGBoost captures complex fraud patterns more effectively, making it better suited for real-world deployment.
