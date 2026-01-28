@@ -55,10 +55,5 @@ Accuracy is not emphasized due to imbalance; ROC–AUC and recall are prioritize
 - `xgboost`
 - `rpart`, `rpart.plot`
 
-🚀 How to Run
-1. Place `creditcard.csv` in the working directory
-2. Update file path in `read.csv()`
-3. Run the script sequentially in R (R ≥ 4.4.0)
-
 🧾 Conclusion
 Cost-sensitive learning significantly improves fraud detection in imbalanced datasets. While Logistic Regression offers interpretability, XGBoost captures complex fraud patterns more effectively, making it better suited for real-world deployment.
